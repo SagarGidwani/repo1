@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello
+=======
+new file for testing
+>>>>>>> b4da231bd633267192403c36401028430ed8b801
